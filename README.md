@@ -11,7 +11,9 @@
 
 ## Description
 
-This application automatically generates a README.md file based on user input.
+This application automatically generates a README.md file based on user input. The user will answer questions based on the corresponding sections of the README and then those answers will be added to the README.md file.
+
+A possibility for future enhancement is to verify that the github username and the email address exist as to prevent user input errors.
 
 ## Installation
 

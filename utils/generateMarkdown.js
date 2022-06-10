@@ -48,7 +48,7 @@ function generateMarkdown(data) {
 ## Table of Contents
 -- [Installation](#installation)
 -- [Usage](#usage)
--- [Credits](#credits)
+-- [Contribute](#contribute)
 -- [License](#license)
 
 ## Description
@@ -63,12 +63,14 @@ ${data.usageInstructions}
 ## Testing
 ${data.testInstructions}
 
-## How to Contribute
+## Contribute
 ${data.contributionInstructions}
 
 ${licenseSection}
 
 ## Questions?
+If you have questions about the project you can either contact me on github or through my email.
+Both are listed below.
 Github: https://github.com/${data.githubUsername}
 Email: ${data.emailAddress}
 `;
