@@ -50,7 +50,7 @@ function generateMarkdown(data) {
 
 -- [License](#license)
 
--- [Questions](#questions?)
+-- [Questions](#questions)
 
 ## Description
 ${data.projectDescription}

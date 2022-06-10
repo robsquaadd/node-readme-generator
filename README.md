@@ -5,39 +5,50 @@
 ## Table of Contents
 
 -- [Installation](#installation)
+
 -- [Usage](#usage)
--- [Credits](#credits)
+
+-- [Testing](#testing)
+
+-- [Contribute](#contribute)
+
 -- [License](#license)
+
+-- [Questions](#questions)
 
 ## Description
 
-This application automatically generates a README.md file based on user input. The user will answer questions based on the corresponding sections of the README and then those answers will be added to the README.md file.
-
-A possibility for future enhancement is to verify that the github username and the email address exist as to prevent user input errors.
+This application automatically generates a README.md file based on user responses to questions in the command line.
 
 ## Installation
 
-Ensure that you install inquirer. Then put node index.js in the terminal.
+To install the application, ensure that all required dependencies are installed. This package does use inquirer.
 
 ## Usage
 
-Put node index.js in the terminal. Then, answer the questions to generate the readme.md file.
+To use this application, run node index.js in the command line.
 
 ## Testing
 
-Test by cloning the repo and running the application.
+Users can test the application by running node index.js in the command line and then answering the questions that come up. They can then check to ensure that the README.md file was created and the content matches the answers that the users put in.
 
-## How to Contribute
+## Contribute
 
-Contribute by cloning the repo and adding your changes.
+Contributors may clone this repository and make modifications to this project. Please make all changes in your own github branch and create a pull request if you'd like to merge.
 
 ## License
 
-This project is licensed under the MIT license.
-The link to the license is at https://choosealicense.com/licenses/mit/.
+    This project is licensed under the MIT license.
+
+    The link to the license is at https://choosealicense.com/licenses/mit/.
 
 ## Questions?
 
+If you have questions about the project you can either contact me on github or through my email.
+Both are listed below.
+
 Github: https://github.com/robsquaadd
+
 Email: robert.collier.120@gmail.com
-Video Link: https://drive.google.com/file/d/1ioDIJLjHz-JJVt6ixpTZUUb6_z3rLQgO/view
+
+Video Link: https://drive.google.com/file/d/1t0hah9lFArARJeovApmyeQhHEFLkaa8d/view
